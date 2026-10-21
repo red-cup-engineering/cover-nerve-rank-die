@@ -25,5 +25,13 @@
   },
   "engines": {
     "node": ">=20"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/cover-nerve-rank-die.git"
   }
 }
